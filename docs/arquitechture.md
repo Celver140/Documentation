@@ -19,6 +19,12 @@ Here you can find the architecture of the framework. In the OnOrbitROS workspace
 
 ![alt text](images/architecture.png "OnOrbitROS Arquitechture")
 
+    python
+def hello_world():
+    print("Hello, world!")
+
+hello_world()
+
 
 
 

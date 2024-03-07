@@ -1,8 +1,10 @@
 site_name: OnOrbitROS Documentation
 
 theme: 
-  name: readthedocs
+  name: material
   features:
     - content.code.copy
     - content.code.select
     - content.code.annotate
+
+extra_css: [extra.css]
