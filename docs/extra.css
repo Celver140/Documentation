@@ -1,21 +1,3 @@
 h1 {
     color: darkblue;
   }
-
-  /* Enable code block copying */
-.highlight pre {
-    position: relative;
-}
-.highlight pre::before {
-    content: "Copy";
-    position: absolute;
-    top: 0;
-    right: 0;
-    padding: 4px 8px;
-    background-color: #007bff;
-    color: #fff;
-    cursor: pointer;
-}
-.highlight pre::before:hover {
-    background-color: #0056b3;
-}
