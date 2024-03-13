@@ -13,7 +13,7 @@ repo_url: https://github.com/OnOrbitROS
 
 markdown_extensions:
   - admonition
-  - mdx_math
+  #- mdx_math
   # - markdown_include.include:
   #       base_path: docs
   # - pymdownx.highlight:
